@@ -4,7 +4,7 @@ const fileName = process.argv[2];
 const fs = require('fs');
 const readFileLines = filename =>
   fs
-    .readFileSync(filename)
+    .readFileSync('data.txt')
     .toString('UTF8')
     .split(' ')
   
