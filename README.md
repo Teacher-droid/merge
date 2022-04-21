@@ -10,8 +10,14 @@ application up and running.
 # Process by following ⚙️
 
 
-`Download` the folder & open the files in Web browser (I suggest Brave or Google Chrome).
-Test on your console.
+`Download` the folder & launch the merge sort script:
+
+`Launch` the "merge.js" through a node merge.js data.txt .
+You may switch the data.txt content if you wish to.
+
+To run the different "algorithm" files including positive integers:
+
+`Type` node sub_one.js data.txt or sub_two.js data.txt, followed by [Return key].
 
 <hr>
 
